@@ -1,2 +1,2 @@
 # HFEP
-Long-Term Egocentric Activity Prediction Based on Future Enhancement and Dual-Flow Driving
+Self Centered Video Activity Prediction Based On Hybrid Future Enhancement
