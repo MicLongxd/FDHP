@@ -1,2 +1,2 @@
 # HFEP
-Self Centered Video Activity Prediction Based On Hybrid Future Enhancement
+Self Centered Video Activity Prediction Based on Hybrid Future Enhancement
