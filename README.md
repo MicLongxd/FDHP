@@ -51,14 +51,4 @@ Please download the pre-trained model weigths from Baidu passward: 'wub3' or Goo
 
  - For three modality features, python main.py --gpu_ids 0 --batch_size 128 --mode validate --modality fusion --resume_timestamp pre_trained
 # Citation
-Please cite our paper if you use this code in your own work:
-
-    @article{fmclxd,
-      title={FDHP:A novel hybrid self centered prediction framework based on driving feature embedding implementation},
-      author={Xiangdong Long, He Zhang, Tianyu Liang and Shuqin Wang},
-      journal={IEEE Transactions on Pattern Analysis \& Machine Intelligence},
-      number={01},
-      pages={1--1},
-      year={2025},
-      publisher={IEEE Computer Society}
-    }
+None
