@@ -1,8 +1,8 @@
 # FDHP
-A novel hybrid self centered prediction framework based on driving feature embedding implementation
+A Hybrid Recurrent Framework Based on Embedded Driving Features for Egocentric Activity Forecasting
 # Introduction
 This is a Pytorch implementation of the model described in our paper:
-    Xiangdong Long, He Zhang, Tianyu Liang and Shuqin Wang. FDHP:A novel hybrid self centered prediction framework based on driving feature embedding implementation.
+    Xiangdong Long, He Zhang, Tianyu Liang and Shuqin Wang. FDHP:A Hybrid Recurrent Framework Based on Embedded Driving Features for Egocentric Activity Forecasting.
 # Dependencies
     PyTorch ≥ 1.0.1
     CUDA 9.0.176
