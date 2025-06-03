@@ -2,12 +2,12 @@
 A Hybrid Recurrent Framework Based on Embedded Driving Features for Egocentric Activity Forecasting
 # Introduction
 This is a Pytorch implementation of the model described in our paper:
-    Xiangdong Long, He Zhang, Tianyu Liang and Shuqin Wang. FDHP:A Hybrid Recurrent Framework Based on Embedded Driving Features for Egocentric Activity Forecasting.
+    Xiangdong Long, He Zhang, Tianyu Liang Shuqin Wang and Yong Chen. FDHP:A Hybrid Recurrent Framework Based on Embedded Driving Features for Egocentric Activity Forecasting.
 # Dependencies
-    PyTorch ≥ 1.0.1
+    PyTorch ≥ 1.10.2
     CUDA 9.0.176
     CuDNN 7.4.2
-    Python 3.6.8
+    Python 3.6.13
 
 # Data
 ### EPIC-Kitchens dataset
