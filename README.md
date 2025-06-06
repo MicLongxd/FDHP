@@ -36,12 +36,9 @@ For the extraced I3D features, please download from Baidu passward: 'wub3' or Go
 
 # Training
 ### EPIC-Kitchens
- - For rgb feature: python main.py --gpu_id 0 --batch_size 128 --mode train --modality rgb --hidden 1024 --feat_in 1024 --lr 0.05 --wd 1e-5 --reinforce_verb_weight 0 --reinforce_noun_weight 0  --revision_sd_weight 0 --revision_ad_weight 3 --revision_etp_weight 1.5 --revision_threshold 0.003 --epoch 300
+- For rgb feature: python main.py --gpu_id 0 --batch_size 128 --mode train --modality rgb --hidden 1024 --feat_in 1024 --lr 0.05 --wd 1e-5 --reinforce_verb_weight 0 --reinforce_noun_weight 0  --revision_sd_weight 0 --revision_ad_weight 3 --revision_etp_weight 1.5 --revision_threshold 0.003 --epoch 300
 Silimar commonds can be used for flow or obj features.
-
 - For three modality features: python main.py --gpu_id 0 --batch_size 128 --mode train --modality fusion --lr 0.05 --wd 1e-5 --reinforce_verb_weight 0 --reinforce_noun_weight 0  --revision_sd_weight 0 --revision_ad_weight 0 --revision_etp_weight 0 --epoch 200
-
-
 # Validation
 ###  Validation for Epic-Kitchen dataset
 Please download the pre-trained model weigths from Baidu passward: 'wub3' or Google Drive, and put them in the folder './results/EPIC/base_srl/pre_trained/'.
